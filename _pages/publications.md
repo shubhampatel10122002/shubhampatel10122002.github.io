@@ -5,8 +5,8 @@ permalink: /work-experience/
 author_profile: true
 ---
 <br>
-<img width="175" height="75" src="https://shubhampatel10122002.github.io/images/s.png"/> <br>
 <a href="https://github.com/username/repo" target="_blank">[Link to Code]</a>
+<img width="175" height="75" src="https://shubhampatel10122002.github.io/images/s.png"/> <br>
 
 <br>
 <b>Lead Research Assistant (Technology), Stanford University, Palo Alto, CA </b> <br>
