@@ -6,6 +6,8 @@ author_profile: true
 ---
 <br>
 <img width="175" height="75" src="https://shubhampatel10122002.github.io/images/s.png"/> <br>
+<a href="https://github.com/username/repo" target="_blank">[Link to Code]</a>
+
 <br>
 <b>Lead Research Assistant (Technology), Stanford University, Palo Alto, CA </b> <br>
 Professor Gerald Fuller and Doctor Vinny Chandran Suja(Postdoc at Harvard University) <br>
