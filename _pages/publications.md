@@ -5,7 +5,7 @@ permalink: /work-experience/
 author_profile: true
 ---
 <br>
-<img width="175" height="75" src="https://shubhampatel10122002.github.io/images/png-clipart-logo-stanford-university-computer-science-department-higher-education-stanford-online-stanford-logo-text-logo.png"/> <br>
+<img width="175" height="75" src="https://shubhampatel10122002.github.io/images/s.png"/> <br>
 <br>
 <b>Lead Research Assistant (Technology)   , Professor Gerald Fullet, Palo Alto, CA </b> <br>
 Flipkart <br>
