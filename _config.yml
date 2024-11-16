@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Nishtha Agrawal"
+title                    : "Shubham Patel"
 title_separator          : "-"
-name                     : &name "Nishtha Agrawal"
+name                     : &name "Shubham Patel"
 description              : 
-url                      : https://nishtha777.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://shubhampatel10122002.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "nishtha777/nishtha777.github.io"
+repository               : "shubhampatel10122002/shubhampatel10122002.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -86,7 +86,7 @@ author:
   location         : "New York City, USA"
   employer         :
   googlescholar    :
-  email            : "na3533@nyu.edu"
+  email            : "sp8484@nyu.edu"
   uri              :
   bitbucket        :
   codepen          :
@@ -94,12 +94,12 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "nishtha777"
+  github           : "shubhampatel10122002"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : nishtha-agrawal-4629a7193/
+  linkedin         : shubham-patel-harikrishna/
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
