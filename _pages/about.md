@@ -26,13 +26,13 @@ As a former software development engineer with a strong foundation in computer s
 
 # Education
 <br>
-<img width="135" height="200" src="https://nishtha777.github.io/images/nyuCourant.jpg"/> <br>
+<img width="135" height="200" src="https://shubhampatel10122002.github.io/images/nyuCourant.jpg"/> <br>
 <br>
 <b>New York University, Courant Institute of Mathematical Sciences (New York City, USA)</b> <br>
 Graduate Student in Fall 2023<br>
 Master of Science in Computer Science<br>
 
-<img width="150" height="75" src="https://nishtha777.github.io/images/iitgn.png"/> <br>
+<img width="150" height="75" src="https://shubhampatel10122002.github.io/images/iitgn.png"/> <br>
 <br>
 <b>Birla Institute of Technology & Science, Goa Campus (Goa, India)</b> <br>
 Aug 2017 -- Jul 2021<br>
