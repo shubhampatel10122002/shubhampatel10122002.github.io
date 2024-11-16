@@ -1,30 +1,38 @@
----
 <!-- layout: archive -->
 title: "Work Experience"
 permalink: /work-experience/
 author_profile: true
 ---
-<br>
-<img width="175" height="75" src="https://shubhampatel10122002.github.io/images/s.png"/> <br>
-<a href="https://github.com/username/repo" target="_blank">[Link to Code]</a>
 
-<br>
-<b>Lead Research Assistant (Technology), Stanford University, Palo Alto, CA </b> <br>
-Professor Gerald Fuller and Doctor Vinny Chandran Suja(Postdoc at Harvard University) <br>
-Sept 2023 -- Decmeber 2024 <br>
+<div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 20px;">
+  <img width="175" height="75" src="https://shubhampatel10122002.github.io/images/s.png" alt="Stanford Logo" />
+  <a href="https://github.com/username/repo" target="_blank" 
+     style="text-decoration: none; padding: 10px 20px; background-color: #007BFF; color: white; font-weight: bold; border-radius: 5px; transition: background-color 0.3s ease; text-align: center;">
+     View Code
+  </a>
+</div>
+<b>Lead Research Assistant (Technology), Stanford University, Palo Alto, CA</b> <br>
+Professor Gerald Fuller and Doctor Vinny Chandran Suja (Postdoc at Harvard University) <br>
+Sept 2023 -- December 2024 <br>
 
+<p>
 Trained a RoBERTa model on 70M+ SMILES strings using masked language modeling. Achieved 98% accuracy in capturing molecular embeddings. Optimized transformer architecture to encode SMILES effectively. Adapted the model for surface tension prediction via transfer learning and gradient-based tuning, achieving an R² of 0.912. The pipeline enabled rapid inference and robust performance, demonstrating transformers' utility in cheminformatics and computational material science.
+</p>
 
-
-<br>
-<img width="175" height="75" src="https://shubhampatel10122002.github.io/images/mitlogo.png"/> <br>
-<br>
-<b>Research Assistant, Massachusetts Institute Of Technology, Cambridge, MA, (Hybrid) </b> <br>
+<div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 20px;">
+  <img width="175" height="75" src="https://shubhampatel10122002.github.io/images/mitlogo.png" alt="MIT Logo" />
+  <a href="https://github.com/username/repo2" target="_blank" 
+     style="text-decoration: none; padding: 10px 20px; background-color: #007BFF; color: white; font-weight: bold; border-radius: 5px; transition: background-color 0.3s ease; text-align: center;">
+     View Code
+  </a>
+</div>
+<b>Research Assistant, Massachusetts Institute Of Technology, Cambridge, MA, (Hybrid)</b> <br>
 Professor Ju Ni <br>
 Oct 2024 -- Present <br>
 
-We are making generative model that given few microstructre images at discrete scale will predict entire microstructure at all magnification from cm to nm (think of continous zoom). The key is making model understand the physical material properties of material. To start we have tried using cycleGAN and diffusion model, to enforce understanding of the physcial material properties. Now we are training the model to generate images at all scales. 
-
+<p>
+We are making a generative model that, given a few microstructure images at discrete scales, will predict the entire microstructure at all magnifications from cm to nm (think of continuous zoom). The key is making the model understand the physical material properties of the material. To start, we have tried using cycleGAN and diffusion models to enforce understanding of the physical material properties. Now we are training the model to generate images at all scales.
+</p>
 <br>
 <img width="175" height="75" src="https://shubhampatel10122002.github.io/images/google-deepmind-logo.png"/> <br>
 <br>
