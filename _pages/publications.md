@@ -21,7 +21,7 @@ Trained a RoBERTa model on 70M+ SMILES strings using masked language modeling. A
 <br>
 <b>Research Assistant, Massachusetts Institute Of Technology, Cambridge, MA, (Hybrid) </b> <br>
 Professor Ju Ni <br>
-Oct 2024 -- Present <br>
+Oct 2024 -- Present, <a href="https://github.com/username/repo" target="_blank">[Link to Code]</a> <br>
 
 We are making generative model that given few microstructre images at discrete scale will predict entire microstructure at all magnification from cm to nm (think of continous zoom). The key is making model understand the physical material properties of material. To start we have tried using cycleGAN and diffusion model, to enforce understanding of the physcial material properties. Now we are training the model to generate images at all scales. 
 
