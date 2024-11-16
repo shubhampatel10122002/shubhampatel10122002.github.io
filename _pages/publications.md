@@ -15,7 +15,7 @@ Trained a RoBERTa model on 70M+ SMILES strings using masked language modeling. A
 
 
 <br>
-<img width="175" height="75" src="https://shubhampatel10122002.github.io/images/mit.png"/> <br>
+<img width="175" height="75" src="https://shubhampatel10122002.github.io/images/mitlogo.png"/> <br>
 <br>
 <b>Research Assistant, Massachusetts Institute Of Technology, Cambridge, MA, (Hybrid) </b> <br>
 Professor Ju Ni <br>
@@ -23,7 +23,25 @@ Oct 2024 -- Present <br>
 
 We are making generative model that given few microstructre images at discrete scale will predict entire microstructure at all magnification from cm to nm (think of continous zoom). The key is making model understand the physical material properties of material. To start we have tried using cycleGAN and diffusion model, to enforce understanding of the physcial material properties. Now we are training the model to generate images at all scales. 
 
+<br>
+<img width="175" height="75" src="https://shubhampatel10122002.github.io/images/google-deepmind-logo.png"/> <br>
+<br>
+<b>Research Intern, Google DeepMind, (Remote) </b> <br>
+Doctor Alicia Y. Tsai  <br>
+Sep 2024 -- Present <br>
 
+Working on implicit deep learning models for financial time series predictions. Our research demonstrates that implicit model architectures significantly reduce computational operations during inference compared to state-of-the-art classical deep learning models. Furthermore, the implicit models required four times fewer parameters our example. We benchmarked our model against Microsoft's SeqSNN ( CPG-PE) and found that our implicit model outperforms it.
+<br>
+
+<img width="175" height="75" src="https://shubhampatel10122002.github.io/images/logo-variations-thumbnail-gold-blue.png"/> <br>
+<br>
+<b>Research Intern, UC Berkely DeepMind, (Remote) </b> <br>
+Professor Laurent EI Ghaunoi   <br>
+Sep 2024 -- Present <br>
+
+Working on deep equilibrium models (DEQs), specifically focusing on their advantages over LSTM (Long Short-Term Memory) networks. In our experiments, we have demonstrated that DEQs can deliver superior performance in terms of accuracy and computational efficiency. By leveraging implicit models and eliminating the need for recurrent connections, DEQs significantly reduce training time and memory usage compared to LSTMs, while maintaining or even improving prediction accuracy. 
+
+Our results indicate that DEQs are highly effective for financial time series forecasting, where both precision and computational efficiency are critical. The model's ability to process longer sequences without compromising on speed or resource consumption sets it apart as a promising alternative to traditional deep learning approaches.
 <br>
 
 <img width="175" height="75" src="https://shubhampatel10122002.github.io/images/upenn.png"/> <br>
