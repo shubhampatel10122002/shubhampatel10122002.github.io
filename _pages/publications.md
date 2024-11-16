@@ -7,15 +7,24 @@ author_profile: true
 <br>
 <img width="175" height="75" src="https://shubhampatel10122002.github.io/images/s.png"/> <br>
 <br>
-<b>Lead Research Assistant (Technology)   , Professor Gerald Fuller, Palo Alto, CA </b> <br>
-Flipkart <br>
-May 2023 -- August 2023 <br>
+<b>Lead Research Assistant (Technology), Stanford University, Palo Alto, CA </b> <br>
+Professor Gerald Fuller and Doctor Vinny Chandran Suja(Postdoc at Harvard University) <br>
+Sept 2023 -- Decmeber 2024 <br>
 
 Trained a RoBERTa model on 70M+ SMILES strings using masked language modeling. Achieved 98% accuracy in capturing molecular embeddings. Optimized transformer architecture to encode SMILES effectively. Adapted the model for surface tension prediction via transfer learning and gradient-based tuning, achieving an R² of 0.912. The pipeline enabled rapid inference and robust performance, demonstrating transformers' utility in cheminformatics and computational material science.
 
 
 <br>
+<img width="175" height="75" src="https://shubhampatel10122002.github.io/images/mit.png"/> <br>
+<br>
+<b>Research Assistant, Massachusetts Institute Of Technology, Cambridge, MA, (Hybrid) </b> <br>
+Professor Ju Ni <br>
+Oct 2024 -- Present <br>
 
+We are making generative model that given few microstructre images at discrete scale will predict entire microstructure at all magnification from cm to nm (think of continous zoom). The key is making model understand the physical material properties of material. To start we have tried using cycleGAN and diffusion model, to enforce understanding of the physcial material properties. Now we are training the model to generate images at all scales. 
+
+
+<br>
 
 <img width="175" height="75" src="https://shubhampatel10122002.github.io/images/upenn.png"/> <br>
 <br>
