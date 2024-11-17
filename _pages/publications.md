@@ -57,7 +57,7 @@ Developed a foundational large language model (LLM) to predict multi-organ imagi
 
 This model incorporates data from the UK Biobank, which provides a comprehensive dataset linking individual-level SNP data with organ-specific imaging traits for the same subjects. Additionally, summary-level Genome-Wide Association Studies (GWAS) data is integrated into the model, allowing it to leverage known associations between SNPs and specific traits. GWAS data is extracted from resources like the GWAS Catalog, enhancing the model’s ability to identify and utilize SNP-IDP relationships.
 By combining individual-level SNP data with broader GWAS information, the model aims to predict imaging-derived phenotypes with improved accuracy, offering insights into the potential genetic underpinnings of multi-organ characteristics. This foundational approach could support research in understanding how genetics shape organ structure and function as seen through imaging, potentially informing personalized medicine and further genetic studies
-
+This project bridges genomics and medical imaging by leveraging genetic data to predict imaging-derived phenotypes (IDPs), offering a groundbreaking way to understand how DNA variations influence organ traits. It has the potential to revolutionize personalized medicine by uncovering genetic markers linked to diseases, enabling early diagnosis and targeted treatments.
 <br>
 
 <img width="175" height="75" src="https://nishtha777.github.io/images/Flipkart-Logo.jpg"/> <br>
