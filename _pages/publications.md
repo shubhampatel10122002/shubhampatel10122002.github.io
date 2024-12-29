@@ -17,7 +17,7 @@ Trained a RoBERTa model on 70M+ SMILES strings using masked language modeling. A
 
 
 <br>
-<img width="175" height="75" src="https://github.com/shubhampatel10122002/MIT-Image-Generation"/> <br>
+<img width="175" height="75" src="https://shubhampatel10122002.github.io/images/mitlogo.png"/> <br>
 <br>
 <b>Research Assistant, Massachusetts Institute Of Technology, Cambridge, MA, (Hybrid) </b> <br>
 Professor Ju Ni <br>
