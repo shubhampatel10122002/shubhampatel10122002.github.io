@@ -16,11 +16,11 @@ As a former software development engineer with a strong foundation in computer s
 
 
 # Research Interest
-* Machine Learning
+* AI applied to Biology
 * Deep Learning
 * Computer Vision
 * Natural Language Processing
-* Artificial Intelligence
+* Computational Biology
 
 
 
