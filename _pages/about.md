@@ -31,12 +31,13 @@ As a former software development engineer with a strong foundation in computer s
 <b>New York University, Courant Institute of Mathematical Sciences (New York City, USA)</b> <br>
 Graduate Student in Fall 2023<br>
 Master of Science in Computer Science<br>
+GPA: 3.75/4
 
 <img width="150" height="75" src="https://shubhampatel10122002.github.io/images/iitgn.png"/> <br>
 <br>
-<b>Birla Institute of Technology & Science, Goa Campus (Goa, India)</b> <br>
-Aug 2017 -- Jul 2021<br>
+<b>Indian Institute of Technology, Gandhinagar (Gujarat, India)</b> <br>
+Nov 2020 -- Jun 2024<br>
 Bachelor of Engineering in Electronics and Instrumentation<br>
-GPA: 7.61/10.00<br>
+GPA: 8.22/10.00<br>
 
 
