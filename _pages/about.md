@@ -37,7 +37,7 @@ GPA: 3.75/4
 <br>
 <b>Indian Institute of Technology, Gandhinagar (Gujarat, India)</b> <br>
 Nov 2020 -- Jun 2024<br>
-Bachelor of Engineering in Electronics and Instrumentation<br>
+Bachelor of Technology in Mechanical and Computer Engineering<br>
 GPA: 8.22/10.00<br>
 
 
