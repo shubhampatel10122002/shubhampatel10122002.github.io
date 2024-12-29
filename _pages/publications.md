@@ -5,19 +5,19 @@ permalink: /work-experience/
 author_profile: true
 ---
 <br>
-<img width="175" height="75" src="https://shubhampatel10122002.github.io/images/s.png"/><a href="https://github.com/username/repo" target="_blank">[Link to Code]</a>
+<img width="175" height="75" src="https://shubhampatel10122002.github.io/images/s.png"/>
  <br>
 
 <br>
 <b>Lead Research Assistant (Technology), Stanford University, Palo Alto, CA </b> <br>
 Professor Gerald Fuller and Doctor Vinny Chandran Suja(Postdoc at Harvard University) <br>
-Sept 2023 -- Decmeber 2024 <br>
+Sept 2023 -- Decmeber 2024, <a href="https://github.com/shubhampatel10122002/jsn_mlm/tree/main" target="_blank">[Link to Code]</a><br>
 
 Trained a RoBERTa model on 70M+ SMILES strings using masked language modeling. Achieved 98% accuracy in capturing molecular embeddings. Optimized transformer architecture to encode SMILES effectively. Adapted the model for surface tension prediction via transfer learning and gradient-based tuning, achieving an R² of 0.912. The pipeline enabled rapid inference and robust performance, demonstrating transformers' utility in cheminformatics and computational material science.
 
 
 <br>
-<img width="175" height="75" src="https://shubhampatel10122002.github.io/images/mitlogo.png"/> <br>
+<img width="175" height="75" src="https://github.com/shubhampatel10122002/MIT-Image-Generation"/> <br>
 <br>
 <b>Research Assistant, Massachusetts Institute Of Technology, Cambridge, MA, (Hybrid) </b> <br>
 Professor Ju Ni <br>
@@ -31,7 +31,7 @@ We are making generative model that given few microstructre images at discrete s
 <br>
 <b>Research Intern, Google DeepMind, (Remote) </b> <br>
 Doctor Alicia Y. Tsai  <br>
-Sep 2024 -- Present <br>
+Sep 2024 -- Present, <a href="https://github.com/shubhampatel10122002/Harikrishna_IDL/tree/main" target="_blank">[Link to Code]</a> <br>
 
 Working on implicit deep learning models for financial time series predictions. Our research demonstrates that implicit model architectures significantly reduce computational operations during inference compared to state-of-the-art classical deep learning models. Furthermore, the implicit models required four times fewer parameters our example. We benchmarked our model against Microsoft's SeqSNN ( CPG-PE) and found that our implicit model outperforms it.
 <br>
@@ -40,7 +40,7 @@ Working on implicit deep learning models for financial time series predictions. 
 <br>
 <b>Research Intern, UC Berkely DeepMind, (Remote) </b> <br>
 Professor Laurent EI Ghaunoi   <br>
-Sep 2024 -- Present <br>
+Sep 2024 -- Present, <a href="https://github.com/shubhampatel10122002/Harikrishna_IDL/tree/main" target="_blank">[Link to Code]</a> <br>
 
 Working on deep equilibrium models (DEQs), specifically focusing on their advantages over LSTM (Long Short-Term Memory) networks. In our experiments, we have demonstrated that DEQs can deliver superior performance in terms of accuracy and computational efficiency. By leveraging implicit models and eliminating the need for recurrent connections, DEQs significantly reduce training time and memory usage compared to LSTMs, while maintaining or even improving prediction accuracy. 
 
@@ -51,7 +51,7 @@ Our results indicate that DEQs are highly effective for financial time series fo
 <br>
 <b>Lead Research Assistant (Technology), University Of Pennslyvania , Philadelphia, PA, (Hybrid) </b> <br>
 Professor Davatzikos Christos <br>
-Oct 2024 -- Present <br>
+Oct 2024 -- Present, <a href="https://github.com/shubhampatel10122002/UPenn_LLM" target="_blank">[Link to Code]</a>t <br>
 
 Developed a foundational large language model (LLM) to predict multi-organ imaging-derived phenotypes (IDPs), such as those derived from brain MRI, heart MRI, and eye OCT scans, based on genetic variations represented by sets of SNPs (Single Nucleotide Polymorphisms). So, essentially model analyzes genetic data to estimate how certain genetic variations may influence observable characteristics in medical imaging across different organs.
 
